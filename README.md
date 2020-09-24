@@ -18,7 +18,7 @@ Hiện nay nhu cầu mua hàng, trong đó có hàng điện tử qua các trang
   *	2/Bàn phím 
   *	3/Chuột
   *	4/...
--	Trong từng sản phẩm sẽ hiện thị các thông tin như:
+	Trong từng sản phẩm sẽ hiện thị các thông tin như:
 	-	 Giá
 	-	 Chi tiết sản phẩm 
 	-	 Số lượng
@@ -33,8 +33,8 @@ Hiện nay nhu cầu mua hàng, trong đó có hàng điện tử qua các trang
 * V/ TÀI KHOẢN
   *	1/ Thông tin khách hàng (họ tên, địa chỉ, số điện thoại,...)
   *	2/ Lịch sử mua hàng 
-		- Hiển thị các sản phẩm đã mua
-		- Tinh năng đánh giá chất lượng sản phẩm (1 đến 5 sao)
+  	* Hiển thị các sản phẩm đã mua
+	* Tinh năng đánh giá chất lượng sản phẩm (1 đến 5 sao)
   *	3/ Quà tặng (các voucher giảm giá nhận được khi mua hàng)
   *	4/ Đăng xuất
 
