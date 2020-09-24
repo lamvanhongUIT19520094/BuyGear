@@ -25,10 +25,10 @@ Hiện nay nhu cầu mua hàng, trong đó có hàng điện tử qua các trang
 	-	 Tính năng thêm vào giỏ hàng
 * II/ THANH TÌM KIẾM (tìm kiếm theo tên sản phẩm)
 * III/ GIỎ HÀNG
-  	1. Tên sản phẩm + giá của sản phẩm
-  	2. Tổng tiền
-  	3. Thanh toán
-  	4. Chọn áp dụng voucher giảm giá
+  	1.Tên sản phẩm + giá của sản phẩm
+  	2.Tổng tiền
+  	3.Thanh toán
+  	4.Chọn áp dụng voucher giảm giá
 * IV/ ĐĂNG NHẬP (NHẬP VÀO TÀI KHOẢN MẬT KHẨU)
 * V/ TÀI KHOẢN
   *	1/ Thông tin khách hàng (họ tên, địa chỉ, số điện thoại,...)
