@@ -18,11 +18,11 @@ Hiện nay nhu cầu mua hàng, trong đó có hàng điện tử qua các trang
   *	2/Bàn phím 
   *	3/Chuột
   *	4/...
-	- Trong từng sản phẩm sẽ hiện thị các thông tin như:
-		+ Giá
-		+ Chi tiết sản phẩm 
-		+ Số lượng
-		+ Tính năng thêm vào giỏ hàng
+-	Trong từng sản phẩm sẽ hiện thị các thông tin như:
+	-	 Giá
+	-	 Chi tiết sản phẩm 
+	-	 Số lượng
+	-	 Tính năng thêm vào giỏ hàng
 * II/ THANH TÌM KIẾM (tìm kiếm theo tên sản phẩm)
 * III/ GIỎ HÀNG
   *	1/ Tên sản phẩm + giá của sản phẩm
