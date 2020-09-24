@@ -13,21 +13,21 @@ Hiện nay nhu cầu mua hàng, trong đó có hàng điện tử qua các trang
 * Những người có nhu cầu mua, tham khảo đồ điện tử.
 
 ## Tính Năng
-1. DANH MỤC (chứa các sản phẩm đang bán trên cửa hàng)
+1. __DANH MỤC__ (chứa các sản phẩm đang bán trên cửa hàng)
   * Liệt kê ra các sản phẩm như: Chuột, Bàn phím, Tai Nghe...
   * Trong từng sản phẩm sẽ hiện thị các thông tin như:
 	* Giá
 	* Chi tiết sản phẩm 
 	* Số lượng
 	* Tính năng thêm vào giỏ hàng
-2. THANH TÌM KIẾM (tìm kiếm theo tên sản phẩm)
-3. GIỎ HÀNG
+2. __THANH TÌM KIẾM__ (tìm kiếm theo tên sản phẩm)
+3. __GIỎ HÀNG__
   * Tên sản phẩm + giá của sản phẩm
   * Tổng tiền
   * Thanh toán
   * Chọn áp dụng voucher giảm giá
-4. ĐĂNG NHẬP (NHẬP VÀO TÀI KHOẢN MẬT KHẨU)
-5. TÀI KHOẢN
+4. __ĐĂNG NHẬP__ (NHẬP VÀO TÀI KHOẢN MẬT KHẨU)
+5. __TÀI KHOẢN__
   * Thông tin khách hàng (họ tên, địa chỉ, số điện thoại,...)
   * Lịch sử mua hàng 
   	* Hiển thị các sản phẩm đã mua
